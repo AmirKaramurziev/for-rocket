@@ -1,0 +1,30 @@
+.section-login{
+    width: 100%;
+}
+.loginContainer{
+    margin: 0 auto;
+    max-width: 1350px;
+    padding: 0 50px;
+    height: 100vh;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.login-items-block{
+    width: 500px;
+    height: 300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}.inputs div{
+    height: 80px;
+    width: 200px;
+}
+
+.buttons{
+    width: 200px;
+    display: flex;
+    justify-content: space-between;
+}

@@ -1,0 +1,26 @@
+.header{
+    width: 100%;
+    background-color: brown;
+    position: fixed;
+}
+.contHeader{
+    margin: 0 auto;
+    max-width: 1350px;
+    padding: 0 50px;
+}
+.items-header{
+    width: 100%;
+    height: 50px;
+
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}.items-header h1{margin: 0}
+.drop{
+    height: 30px;
+    margin-bottom: 9px;
+}.items-header NavLink{
+    cursor: pointer;
+}.items-header a{
+    cursor: pointer;
+}
